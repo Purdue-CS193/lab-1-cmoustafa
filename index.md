@@ -17,8 +17,12 @@ Syntax highlighted code block
 - Quiet Class
 - Very productive class
 
-1. Numbered
-2. List
+# Things I like
+
+1. Sports
+2. Fishing
+3. Video Games
+4. Relaxing
 
 **Bold** and _Italic_ and `Code` text
 
